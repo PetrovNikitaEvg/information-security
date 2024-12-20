@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Part1RSA", "Part1RSA", "{E6E145EA-A4B7-465E-ACF8-43A4A3FCB371}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Part2RSA", "Part2RSA", "{9BB89102-C5C6-48C7-B736-26A2D8C01CB9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part1RSAConsoleApp", "Part1RSAConsoleApp\Part1RSAConsoleApp.csproj", "{A423935C-70D4-4D56-973C-618863B2996F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part2RSAConsoleApp", "Part2RSAConsoleApp\Part2RSAConsoleApp.csproj", "{D00AF209-4AA1-4CDC-8805-30FB52A5A433}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A423935C-70D4-4D56-973C-618863B2996F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A423935C-70D4-4D56-973C-618863B2996F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A423935C-70D4-4D56-973C-618863B2996F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A423935C-70D4-4D56-973C-618863B2996F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D00AF209-4AA1-4CDC-8805-30FB52A5A433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D00AF209-4AA1-4CDC-8805-30FB52A5A433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D00AF209-4AA1-4CDC-8805-30FB52A5A433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D00AF209-4AA1-4CDC-8805-30FB52A5A433}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A423935C-70D4-4D56-973C-618863B2996F} = {E6E145EA-A4B7-465E-ACF8-43A4A3FCB371}
+		{D00AF209-4AA1-4CDC-8805-30FB52A5A433} = {9BB89102-C5C6-48C7-B736-26A2D8C01CB9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FEEEBFC-8980-4A99-B56A-59DBE0E3289E}
+	EndGlobalSection
+EndGlobal
